@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://weavegotit.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://weavegotit.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://weavegotit.ca/collections/bundle-deals-virgin-hair-canada-toronto.atom"/>
+  <title>Weave Got It Canada</title>
+  <updated>2019-01-18T07:58:15-05:00</updated>
+  <author>
+    <name>Weave Got It Canada</name>
+  </author>
+  <entry>
+    <id>https://weavegotit.ca/products/1585299259448</id>
+    <published>2019-01-18T07:58:15-05:00</published>
+    <updated>2019-01-18T07:58:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://weavegotit.ca/products/gold-bundle-deals"/>
+    <title>Gold Bundle Deals</title>
+    <s:type>Bundle Deal</s:type>
+    <s:vendor>Weave Got It Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0820/2299/products/4_e1fed8b2-8d6a-4e6c-a71c-d1f73d411892.png?v=1542735133"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Weave Got It Canada<br>
+        <strong>Type: </strong>Bundle Deal<br>
+        <strong>Price: </strong>
+            247.00 - 432.00
+            <a href="https://weavegotit.ca/products/gold-bundle-deals">(80 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><a href="/collections/choose-your-colours"></a></h2>
+<p><span>Our Bundle Deals make it easy for you to get the premium quality virgin hair you need at a discounted price! Choose the 3 bundles that best fit the hair extensions look you are going for. </span></p>
+<p><span>With straight, wavy, curly and kinky hair textures to choose from, you shouldn't have a finding the right texture for your hairstyle. Our bundle deal textures include the most popular textures, Body Wave and Straight, our wavy textures, Loose Wave and Deep Wave, curly textures like Deep Curly and Kinky Curly, or the more afro inspired textures that will match Black or African textured hair, Kinky Straight and Yaki Straight.  </span></p>
+<meta charset="utf-8">
+<p style="text-align: center;"><em><strong>Our Gold Line will last up to 2 years with proper care. </strong></em><em><strong>Those looking for Peruvian or Cambodian will love this hair. It can be coloured up to a medium blonde colour and remain in good health..</strong> </em></p>
+<meta charset="utf-8">
+<p style="text-align: center;"><em>Get use code BUNDLE20 to get  <strong>20% off</strong> our <strong><a href="https://weavegotit.ca/collections/all-closures">closures &amp; frontals collection</a></strong> when you purchase a Bundle Deal.</em></p>
+<p><span>If you are unsure of how many bundles you would need for your weave hairstyle, or the length of hair you will need, check out our </span><strong><a href="http://weavegotit.ca/blogs/news/40949697-how-many-bundles-of-hair-do-i-need">bundles guide</a></strong><span>, or our </span><strong><a href="http://weavegotit.ca/blogs/news/142989063-what-length-hair-extensions-do-i-need">length chart</a></strong><span>. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BCMP</s:tag>
+    <s:variant>
+      <id>https://weavegotit.ca/products/1585299259448</id>
+      <title>12 - 12 - 12 inches / Straight</title>
+      <s:price currency="USD">247.00</s:price>
+      <s:sku/>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weavegotit.ca/products/1585299259448</id>
+      <title>12 - 12 - 12 inches / Body Wave</title>
+      <s:price currency="USD">247.00</s:price>
+      <s:sku/>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weavegotit.ca/products/1585299259448</id>
+      <title>12 - 12 - 12 inches / Loose Wave</title>
+      <s:price currency="USD">257.00</s:price>
+      <s:sku/>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weavegotit.ca/products/1585299259448</id>
+      <title>12 - 12 - 12 inches / Deep Wave</title>
+      <s:price currency="USD">257.00</s:price>
+      <s:sku/>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weavegotit.ca/products/1585299259448</id>
+      <title>12 - 12 - 12 inches / Deep Curly</title>
+      <s:price currency="USD">257.00</s:price>
+      <s:sku/>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weavegotit.ca/products/1585299259448</id>
+      <title>12 - 12 - 12 inches / Kinky Curly</title>
+      <s:price currency="USD">257.00</s:price>
+      <s:sku/>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weavegotit.ca/products/1585299259448</id>
+      <title>12 - 12 - 12 inches / Kinky Straight</title>
+      <s:price currency="USD">281.00</s:price>
+      <s:sku/>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weavegotit.ca/products/1585299259448</id>
+      <title>12 - 12 - 12 inches / Yaki Straight</title>
+      <s:price currency="USD">281.00</s:price>
+      <s:sku/>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weavegotit.ca/products/1585299259448</id>
+      <title>12 - 14 - 16 inches / Straight</title>
+      <s:price currency="USD">274.00</s:price>
+      <s:sku/>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weavegotit.ca/products/1585299259448</id>
+      <title>12 - 14 - 16 inches / Body Wave</title>
+      <s:price currency="USD">274.00</s:price>
+      <s:sku/>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weavegotit.ca/products/1585299259448</id>
+      <title>12 - 14 - 16 inches / Loose Wave</title>
+      <s:price currency="USD">285.00</s:price>
+      <s:sku/>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weavegotit.ca/products/1585299259448</id>
+      <title>12 - 14 - 16 inches / Deep Wave</title>
+      <s:price currency="USD">285.00</s:price>
+      <s:sku/>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weavegotit.ca/products/1585299259448</id>
+      <title>12 - 14 - 16 inches / Deep Curly</title>
+      <s:price currency="USD">285.00</s:price>
+      <s:sku/>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weavegotit.ca/products/1585299259448</id>
+      <title>12 - 14 - 16 inches / Kinky Curly</title>
+      <s:price currency="USD">285.00</s:price>
+      <s:sku/>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weavegotit.ca/products/1585299259448</id>
+      <title>12 - 14 - 16 inches / Kinky Straight</title>
+      <s:price currency="USD">308.00</s:price>
+      <s:sku/>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weavegotit.ca/products/1585299259448</id>
+      <title>12 - 14 - 16 inches / Yaki Straight</title>
+      <s:price currency="USD">308.00</s:price>
+      <s:sku/>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weavegotit.ca/products/1585299259448</id>
+      <title>14 - 14 - 14 inches / Straight</title>
+      <s:price currency="USD">274.00</s:price>
+      <s:sku/>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weavegotit.ca/products/1585299259448</id>
+      <title>14 - 14 - 14 inches / Body Wave</title>
+      <s:price currency="USD">274.00</s:price>
+      <s:sku/>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weavegotit.ca/products/1585299259448</id>
+      <title>14 - 14 - 14 inches / Loose Wave</title>
+      <s:price currency="USD">286.00</s:price>
+      <s:sku/>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weavegotit.ca/products/1585299259448</id>
+      <title>14 - 14 - 14 inches / Deep Wave</title>
+      <s:price currency="USD">286.00</s:price>
+      <s:sku/>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weavegotit.ca/products/1585299259448</id>
+      <title>14 - 14 - 14 inches / Deep Curly</title>
+      <s:price currency="USD">286.00</s:price>
+      <s:sku/>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weavegotit.ca/products/1585299259448</id>
+      <title>14 - 14 - 14 inches / Kinky Curly</title>
+      <s:price currency="USD">286.00</s:price>
+      <s:sku/>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weavegotit.ca/products/1585299259448</id>
+      <title>14 - 14 - 14 inches / Kinky Straight</title>
+      <s:price currency="USD">307.00</s:price>
+      <s:sku/>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weavegotit.ca/products/1585299259448</id>
+      <title>14 - 14 - 14 inches / Yaki Straight</title>
+      <s:price currency="USD">307.00</s:price>
+      <s:sku/>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weavegotit.ca/products/1585299259448</id>
+      <title>14 - 16 - 18 inches / Straight</title>
+      <s:price currency="USD">302.00</s:price>
+      <s:sku/>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weavegotit.ca/products/1585299259448</id>
+      <title>14 - 16 - 18 inches / Body Wave</title>
+      <s:price currency="USD">302.00</s:price>
+      <s:sku/>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weavegotit.ca/products/1585299259448</id>
+      <title>14 - 16 - 18 inches / Loose Wave</title>
+      <s:price currency="USD">312.00</s:price>
+      <s:sku/>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weavegotit.ca/products/1585299259448</id>
+      <title>14 - 16 - 18 inches / Deep Wave</title>
+      <s:price currency="USD">312.00</s:price>
+      <s:sku/>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weavegotit.ca/products/1585299259448</id>
+      <title>14 - 16 - 18 inches / Deep Curly</title>
+      <s:price currency="USD">312.00</s:price>
+      <s:sku/>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weavegotit.ca/products/1585299259448</id>
+      <title>14 - 16 - 18 inches / Kinky Curly</title>
+      <s:price currency="USD">312.00</s:price>
+      <s:sku/>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weavegotit.ca/products/1585299259448</id>
+      <title>14 - 16 - 18 inches / Kinky Straight</title>
+      <s:price currency="USD">335.00</s:price>
+      <s:sku/>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weavegotit.ca/products/1585299259448</id>
+      <title>14 - 16 - 18 inches / Yaki Straight</title>
+      <s:price currency="USD">335.00</s:price>
+      <s:sku/>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weavegotit.ca/products/1585299259448</id>
+      <title>16 - 16 - 16 inches / Straight</title>
+      <s:price currency="USD">302.00</s:price>
+      <s:sku/>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weavegotit.ca/products/1585299259448</id>
+      <title>16 - 16 - 16 inches / Body Wave</title>
+      <s:price currency="USD">302.00</s:price>
+      <s:sku/>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weavegotit.ca/products/1585299259448</id>
+      <title>16 - 16 - 16 inches / Loose Wave</title>
+      <s:price currency="USD">312.00</s:price>
+      <s:sku/>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weavegotit.ca/products/1585299259448</id>
+      <title>16 - 16 - 16 inches / Deep Wave</title>
+      <s:price currency="USD">312.00</s:price>
+      <s:sku/>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weavegotit.ca/products/1585299259448</id>
+      <title>16 - 16 - 16 inches / Deep Curly</title>
+      <s:price currency="USD">312.00</s:price>
+      <s:sku/>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weavegotit.ca/products/1585299259448</id>
+      <title>16 - 16 - 16 inches / Kinky Curly</title>
+      <s:price currency="USD">312.00</s:price>
+      <s:sku/>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weavegotit.ca/products/1585299259448</id>
+      <title>16 - 16 - 16 inches / Kinky Straight</title>
+      <s:price currency="USD">336.00</s:price>
+      <s:sku/>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weavegotit.ca/products/1585299259448</id>
+      <title>16 - 16 - 16 inches / Yaki Straight</title>
+      <s:price currency="USD">336.00</s:price>
+      <s:sku/>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weavegotit.ca/products/1585299259448</id>
+      <title>16 - 18 - 20 inches / Straight</title>
+      <s:price currency="USD">329.00</s:price>
+      <s:sku/>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weavegotit.ca/products/1585299259448</id>
+      <title>16 - 18 - 20 inches / Body Wave</title>
+      <s:price currency="USD">329.00</s:price>
+      <s:sku/>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weavegotit.ca/products/1585299259448</id>
+      <title>16 - 18 - 20 inches / Loose Wave</title>
+      <s:price currency="USD">340.00</s:price>
+      <s:sku/>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weavegotit.ca/products/1585299259448</id>
+      <title>16 - 18 - 20 inches / Deep Wave</title>
+      <s:price currency="USD">340.00</s:price>
+      <s:sku/>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weavegotit.ca/products/1585299259448</id>
+      <title>16 - 18 - 20 inches / Deep Curly</title>
+      <s:price currency="USD">340.00</s:price>
+      <s:sku/>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weavegotit.ca/products/1585299259448</id>
+      <title>16 - 18 - 20 inches / Kinky Curly</title>
+      <s:price currency="USD">340.00</s:price>
+      <s:sku/>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weavegotit.ca/products/1585299259448</id>
+      <title>16 - 18 - 20 inches / Kinky Straight</title>
+      <s:price currency="USD">363.00</s:price>
+      <s:sku/>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weavegotit.ca/products/1585299259448</id>
+      <title>16 - 18 - 20 inches / Yaki Straight</title>
+      <s:price currency="USD">363.00</s:price>
+      <s:sku/>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weavegotit.ca/products/1585299259448</id>
+      <title>18 - 18 - 18 inches / Straight</title>
+      <s:price currency="USD">329.00</s:price>
+      <s:sku/>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weavegotit.ca/products/1585299259448</id>
+      <title>18 - 18 - 18 inches / Body Wave</title>
+      <s:price currency="USD">329.00</s:price>
+      <s:sku/>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weavegotit.ca/products/1585299259448</id>
+      <title>18 - 18 - 18 inches / Loose Wave</title>
+      <s:price currency="USD">341.00</s:price>
+      <s:sku/>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weavegotit.ca/products/1585299259448</id>
+      <title>18 - 18 - 18 inches / Deep Wave</title>
+      <s:price currency="USD">341.00</s:price>
+      <s:sku/>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weavegotit.ca/products/1585299259448</id>
+      <title>18 - 18 - 18 inches / Deep Curly</title>
+      <s:price currency="USD">341.00</s:price>
+      <s:sku/>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weavegotit.ca/products/1585299259448</id>
+      <title>18 - 18 - 18 inches / Kinky Curly</title>
+      <s:price currency="USD">341.00</s:price>
+      <s:sku/>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weavegotit.ca/products/1585299259448</id>
+      <title>18 - 18 - 18 inches / Kinky Straight</title>
+      <s:price currency="USD">362.00</s:price>
+      <s:sku/>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weavegotit.ca/products/1585299259448</id>
+      <title>18 - 18 - 18 inches / Yaki Straight</title>
+      <s:price currency="USD">362.00</s:price>
+      <s:sku/>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weavegotit.ca/products/1585299259448</id>
+      <title>18 - 20 - 22 inches / Straight</title>
+      <s:price currency="USD">361.00</s:price>
+      <s:sku/>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weavegotit.ca/products/1585299259448</id>
+      <title>18 - 20 - 22 inches / Body Wave</title>
+      <s:price currency="USD">361.00</s:price>
+      <s:sku/>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weavegotit.ca/products/1585299259448</id>
+      <title>18 - 20 - 22 inches / Loose Wave</title>
+      <s:price currency="USD">372.00</s:price>
+      <s:sku/>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weavegotit.ca/products/1585299259448</id>
+      <title>18 - 20 - 22 inches / Deep Wave</title>
+      <s:price currency="USD">372.00</s:price>
+      <s:sku/>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weavegotit.ca/products/1585299259448</id>
+      <title>18 - 20 - 22 inches / Deep Curly</title>
+      <s:price currency="USD">372.00</s:price>
+      <s:sku/>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weavegotit.ca/products/1585299259448</id>
+      <title>18 - 20 - 22 inches / Kinky Curly</title>
+      <s:price currency="USD">372.00</s:price>
+      <s:sku/>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weavegotit.ca/products/1585299259448</id>
+      <title>18 - 20 - 22 inches / Kinky Straight</title>
+      <s:price currency="USD">395.00</s:price>
+      <s:sku/>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weavegotit.ca/products/1585299259448</id>
+      <title>18 - 20 - 22 inches / Yaki Straight</title>
+      <s:price currency="USD">395.00</s:price>
+      <s:sku/>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weavegotit.ca/products/1585299259448</id>
+      <title>20 - 20 - 20 inches / Straight</title>
+      <s:price currency="USD">355.00</s:price>
+      <s:sku/>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weavegotit.ca/products/1585299259448</id>
+      <title>20 - 20 - 20 inches / Body Wave</title>
+      <s:price currency="USD">355.00</s:price>
+      <s:sku/>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weavegotit.ca/products/1585299259448</id>
+      <title>20 - 20 - 20 inches / Loose Wave</title>
+      <s:price currency="USD">367.00</s:price>
+      <s:sku/>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weavegotit.ca/products/1585299259448</id>
+      <title>20 - 20 - 20 inches / Deep Wave</title>
+      <s:price currency="USD">367.00</s:price>
+      <s:sku/>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weavegotit.ca/products/1585299259448</id>
+      <title>20 - 20 - 20 inches / Deep Curly</title>
+      <s:price currency="USD">367.00</s:price>
+      <s:sku/>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weavegotit.ca/products/1585299259448</id>
+      <title>20 - 20 - 20 inches / Kinky Curly</title>
+      <s:price currency="USD">367.00</s:price>
+      <s:sku/>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weavegotit.ca/products/1585299259448</id>
+      <title>20 - 20 - 20 inches / Kinky Straight</title>
+      <s:price currency="USD">391.00</s:price>
+      <s:sku/>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weavegotit.ca/products/1585299259448</id>
+      <title>20 - 20 - 20 inches / Yaki Straight</title>
+      <s:price currency="USD">391.00</s:price>
+      <s:sku/>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weavegotit.ca/products/1585299259448</id>
+      <title>22 - 22 - 22 inches / Straight</title>
+      <s:price currency="USD">396.00</s:price>
+      <s:sku/>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weavegotit.ca/products/1585299259448</id>
+      <title>22 - 22 - 22 inches / Body Wave</title>
+      <s:price currency="USD">396.00</s:price>
+      <s:sku/>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weavegotit.ca/products/1585299259448</id>
+      <title>22 - 22 - 22 inches / Loose Wave</title>
+      <s:price currency="USD">408.00</s:price>
+      <s:sku/>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weavegotit.ca/products/1585299259448</id>
+      <title>22 - 22 - 22 inches / Deep Wave</title>
+      <s:price currency="USD">408.00</s:price>
+      <s:sku/>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weavegotit.ca/products/1585299259448</id>
+      <title>22 - 22 - 22 inches / Deep Curly</title>
+      <s:price currency="USD">408.00</s:price>
+      <s:sku/>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weavegotit.ca/products/1585299259448</id>
+      <title>22 - 22 - 22 inches / Kinky Curly</title>
+      <s:price currency="USD">408.00</s:price>
+      <s:sku/>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weavegotit.ca/products/1585299259448</id>
+      <title>22 - 22 - 22 inches / Kinky Straight</title>
+      <s:price currency="USD">432.00</s:price>
+      <s:sku/>
+      <s:grams>318</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://weavegotit.ca/products/1585299259448</id>
+      <title>22 - 22 - 22 inches / Yaki Straight</title>
+      <s:price currency="USD">432.00</s:price>
+      <s:sku/>
+      <s:grams>318</s:grams>
+    </s:variant>
+  </entry>
+</feed>
